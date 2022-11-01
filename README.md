@@ -1,2 +1,3 @@
 # SocialShare
-Project to demonstrate information sharing using intent on Android
+
+Project to demonstrate information sharing using intents
